@@ -13,9 +13,9 @@
     <module>module2</module>
   </modules>
    <scm>
-       <connection>scm:https://https://github.com/Sidkgupta/parking_backend.git</connection>
-       <url>https://github.com/Sidkgupta/parking_backend.git</url>
-       <developerConnection>scm:git:https://github.com/Sidkgupta/parking_backend.git</developerConnection>
+       <connection>scm:https://https://github.com/AnanyaAnshudhar/maven-modular.git</connection>
+       <url>https://github.com/AnanyaAnshudhar/maven-modular.git</url>
+       <developerConnection>scm:git:https://github.com/AnanyaAnshudhar/maven-modular.git</developerConnection>
        <tag>HEAD</tag>
     </scm>
       <distributionManagement>
